@@ -1,5 +1,5 @@
 {
-  "name": "@wyatthoutz/WyattRepo",
+  "name": "@wyatthoutz/wyatt",
   "version": "1.2.3",
   "scripts": {
     "start": "node node_modules/react-native/local-cli/cli.js start",
